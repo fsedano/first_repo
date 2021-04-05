@@ -3,4 +3,4 @@ I'm typing something more here
 
 This is another line I've added now.
 
-Line from repository A
+Line from repository A. Line modified in repository B.
